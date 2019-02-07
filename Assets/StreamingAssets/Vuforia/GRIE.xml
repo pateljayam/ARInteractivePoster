@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CTExperiments" size="0.387350 0.255905" />
+    <ImageTarget name="ObjectModality" size="0.387350 0.257065" />
+    <ImageTarget name="RobotModality" size="0.387350 0.234259" />
+    <ImageTarget name="TeamSwap" size="0.387350 0.257892" />
+    <ImageTarget name="UserStudy" size="0.387350 0.521746" />
+    <ImageTarget name="CTBehavior" size="0.387350 0.290339" />
+    <ImageTarget name="Abstract" size="0.387350 0.284816" />
+  </Tracking>
+</QCARConfig>
