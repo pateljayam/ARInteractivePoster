@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="F19Viz" size="0.160000 0.147734" />
+    <ImageTarget name="F19User" size="0.430000 0.269548" />
+    <ImageTarget name="F19Team" size="0.437000 0.252295" />
+    <ImageTarget name="F19Robot" size="0.437000 0.233754" />
+    <ImageTarget name="F19Object" size="0.437000 0.276347" />
+    <ImageTarget name="F19Motion" size="0.160000 0.146848" />
+    <ImageTarget name="F19HS" size="0.160000 0.145892" />
+    <ImageTarget name="F19Future" size="0.430000 0.372888" />
+    <ImageTarget name="F19Express" size="0.160000 0.145241" />
     <ImageTarget name="CTExperiments" size="0.387350 0.255905" />
     <ImageTarget name="ObjectModality" size="0.387350 0.257065" />
     <ImageTarget name="RobotModality" size="0.387350 0.234259" />
