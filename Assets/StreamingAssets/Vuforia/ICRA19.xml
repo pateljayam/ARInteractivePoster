@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="ICRA19_CT" size="0.397764 0.313861" />
-    <ImageTarget name="ICRA19_Team" size="0.397764 0.253736" />
-    <ImageTarget name="ICRA19_Robot" size="0.397764 0.240574" />
-    <ImageTarget name="ICRA19_Object" size="0.397764 0.272406" />
-    <ImageTarget name="ICRA19_Exp" size="0.397764 0.305084" />
-    <ImageTarget name="ICRA19_UserStudy" size="0.397764 0.329029" />
+    <ImageTarget name="ICRA19_Team" size="0.296333 0.189033" />
+    <ImageTarget name="ICRA19_Robot" size="0.296333 0.179227" />
+    <ImageTarget name="ICRA19_CT" size="0.296333 0.233825" />
+    <ImageTarget name="ICRA19_UserStudy" size="0.296333 0.245125" />
+    <ImageTarget name="ICRA19_Exp" size="0.296333 0.227287" />
+    <ImageTarget name="ICRA19_Object" size="0.296333 0.202942" />
+    <ImageTarget name="I19_Robot" size="0.444500 0.274562" />
+    <ImageTarget name="I19_Team" size="0.444500 0.263237" />
+    <ImageTarget name="I19_Exp" size="0.444500 0.245480" />
+    <ImageTarget name="I19_UserStudy" size="0.444500 0.205266" />
+    <ImageTarget name="I19_Object" size="0.444500 0.310963" />
+    <ImageTarget name="I19_CT" size="0.444500 0.336755" />
   </Tracking>
 </QCARConfig>
