@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SwarmMesh" size="0.241300 0.425112" />
+    <ImageTarget name="System" size="0.374650 0.168592" />
+    <ImageTarget name="M2" size="0.374650 0.237903" />
+    <ImageTarget name="M1" size="0.374650 0.348520" />
+    <ImageTarget name="CT" size="0.187325 0.166063" />
+    <ImageTarget name="SharedAwareness" size="0.187325 0.169720" />
+    <ImageTarget name="US" size="0.374650 0.207015" />
+  </Tracking>
+</QCARConfig>
